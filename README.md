@@ -4,6 +4,8 @@
 
 ![R](https://img.shields.io/badge/R-0a7?style=flat-square) ![regression analysis](https://img.shields.io/badge/regression_analysis-0a7?style=flat-square) ![data mining](https://img.shields.io/badge/data_mining-0a7?style=flat-square) ![RECS dataset](https://img.shields.io/badge/RECS_dataset-0a7?style=flat-square) 
 
+![SURF Research Poster](images/fig1.png)
+
 ### 🌐 Live project page → **https://selsaady1.github.io/surf-research-poster/**
 
 ## Overview
@@ -26,12 +28,26 @@ The work uses R for data mining and regression on RECS data to surface relations
 - data mining
 - RECS dataset
 
+## Gallery
+![figure](images/fig2.png)
+![figure](images/fig3.png)
+![figure](images/fig4.png)
+![figure](images/fig5.png)
+
 ## Repository Structure
 ```
 .gitignore
+.nojekyll
 LICENSE
 README.md
 docs/SURF POSTER.pptx
+images/fig1.png
+images/fig2.png
+images/fig3.png
+images/fig4.png
+images/fig5.png
+images/fig6.png
+index.html
 ```
 
 ## Results
