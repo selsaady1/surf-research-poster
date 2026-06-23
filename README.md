@@ -7,7 +7,7 @@
 ### 🌐 Live project page → **https://selsaady1.github.io/surf-research-poster/**
 
 ## Overview
-An undergraduate research poster produced for the SURF (undergraduate research) program, mentored by Professor Clark Miller at ASU's College of Liberal Arts and Sciences. The project analyzes Residential Energy Consumption Survey (RECS) data in R to uncover relationships between household variables and energy burden in Arizona. It frames the research question, methods, findings, and policy implications around how income and assistance status relate to energy burden.
+An undergraduate research poster produced for the SURF (undergraduate research) program, mentored by a faculty mentor at ASU's College of Liberal Arts and Sciences. The project analyzes Residential Energy Consumption Survey (RECS) data in R to uncover relationships between household variables and energy burden in Arizona. It frames the research question, methods, findings, and policy implications around how income and assistance status relate to energy burden.
 
 ## Key Achievements
 - Framed and investigated the research question of how RECS data can demonstrate connections between household variables
